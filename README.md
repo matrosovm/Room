@@ -21,3 +21,6 @@ chmod u+x room.sh
    
    + Перемещение осуществляется с помощью: W - вперед, A - влево, S - назад, D - враво, K - можно вылететь за пределы комнаты. 
    Камера поворачивается мышью.
+
+ ![](https://github.com/matrosovm/Room/blob/master/room/screen1.png)
+ ![](https://github.com/matrosovm/Room/blob/master/room/screen2.png)
